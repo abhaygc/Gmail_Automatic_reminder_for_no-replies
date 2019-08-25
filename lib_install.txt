@@ -1,0 +1,8 @@
+
+To install smtplib run following command in CMD:
+
+pip install smtplib
+
+
+
+

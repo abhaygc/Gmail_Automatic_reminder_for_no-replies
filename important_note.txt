@@ -1,0 +1,12 @@
+First login into  your Gmail account in a browser
+Now open below link in the new tab
+https://myaccount.google.com/security
+
+In this page do following:
+
+Look for "Signing in to Google"
+There turn off both 'Use your phone to sign in' and '2-Step Verification'
+
+Then scroll down and look for "Less secure app access"
+There click on  "Turn on access (not recommended)" then a new page will open
+On the new page toggle "Allow less secure apps" to turn it ON.
